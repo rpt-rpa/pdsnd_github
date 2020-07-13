@@ -5,7 +5,7 @@ Created on 7/13/2020
 Rani Tiruveedhula
 
 ### Project Title
-Bikeshare Statistics Tool
+US Bikeshare Statistics Tool
 
 ### Description
 An interactive tool for displaying user-filtered bikeshare statistics data for Chicago, New York City, or Washington.
