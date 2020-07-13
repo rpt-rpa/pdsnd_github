@@ -1,15 +1,23 @@
 ### Date created
-Include the date you created this project and README file.
+Created on 7/13/2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Statistics Tool
 
 ### Description
-Describe what your project is about and what it does
+An interactive tool for displaying user-filtered bikeshare statistics data for Chicago, New York City, or Washington.
 
 ### Files used
-Include the files used
+bikeshare_final.py
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://docs.python.org/3/library/datetime.html#datetime.datetime
+https://stackoverflow.com/questions/2589309/command-line-input-causes-syntaxerror
+https://stackabuse.com/getting-user-input-in-python/
+http://introtopython.org/while_input.html
+http://pylint-messages.wikidot.com/messages:e0104
+https://docs.python.org/3/index.html
+https://pandas.pydata.org/pandas-docs/stable/reference/offset_frequency.html#hour
