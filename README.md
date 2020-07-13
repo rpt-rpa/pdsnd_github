@@ -1,6 +1,9 @@
 ### Date created
 Created on 7/13/2020
 
+### Author
+Rani Tiruveedhula
+
 ### Project Title
 Bikeshare Statistics Tool
 
