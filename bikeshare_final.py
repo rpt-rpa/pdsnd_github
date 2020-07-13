@@ -1,6 +1,5 @@
 import time
 import pandas as pd
-import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
@@ -36,7 +35,7 @@ def get_filters():
 
 
     print('-'*40)
-    print(city, month, day)
+    print('You selected\n city: {}\n month: {}\n day: {}\n'.format(city, month, day))
     return city, month, day
 
 
